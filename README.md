@@ -14,6 +14,8 @@ Install:
 - press the green "Code" button and select "Download ZIP";
 - extract to the themes folder of your firmware.
 
+Alternatively, install using [ThemeMaster](https://github.com/JohnIrvine1433/ThemeMaster) on your device.
+
 Pro tips:
 - enable clock;
 - hide the help section for more screen estate and see if you like it;
